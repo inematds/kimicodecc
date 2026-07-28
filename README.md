@@ -6,6 +6,10 @@ Skill do Claude Code que abre uma **nova janela de terminal** rodando o **harnes
 
 Diga **"abre o kimi"** e pronto.
 
+## 📖 Guia de uso
+
+Guia completo (landing + passo a passo): **https://inematds.github.io/kimicodecc/guia/**
+
 ---
 
 ## O que ela faz
